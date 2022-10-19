@@ -1,7 +1,10 @@
 # 5199-People-3D-Face-Recognition-Images-Data
-https://www.datatang.ai/datasets/1093
+
+
 ## Description
 5,199 People – 3D Face Recognition Images Data. The collection scene is indoor scene. The dataset includes males and females. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The device includes iPhone X, iPhone XR. The data diversity includes multiple facial postures, multiple light conditions, multiple indoor scenes. This data can be used for tasks such as 3D face recognition.
+
+For more details, please refer to the link: https://bit.ly/3DQdKb5
 
 ## The data size
 5,199 people, one person to collect 24 photos
@@ -26,3 +29,6 @@ The label marks the person ID, race, gender, age, face action, collection scene 
 
 ## accuracy
 According to the accuracy of the acquisition movement, the accuracy is more than 97%; The labeling accuracy rate is above 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
