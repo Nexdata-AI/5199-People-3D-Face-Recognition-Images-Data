@@ -32,4 +32,4 @@ The label marks the person ID, race, gender, age, face action, collection scene 
 According to the accuracy of the acquisition movement, the accuracy is more than 97%; The labeling accuracy rate is above 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
