@@ -4,7 +4,7 @@
 ## Description
 5,199 People – 3D Face Recognition Images Data. The collection scene is indoor scene. The dataset includes males and females. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The device includes iPhone X, iPhone XR. The data diversity includes multiple facial postures, multiple light conditions, multiple indoor scenes. This data can be used for tasks such as 3D face recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1093?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1093?source=Github
 
 
 ## The data size
